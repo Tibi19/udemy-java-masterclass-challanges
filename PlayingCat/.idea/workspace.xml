@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fafd6400-fddb-4ce3-b9a7-fb00dc64e7d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bUylYjMzquTJeyb3fgJ63GHzNJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javamc.Main" />
+      <module name="PlayingCat" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafd6400-fddb-4ce3-b9a7-fb00dc64e7d3" name="Default Changelist" comment="" />
+      <created>1588701118444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588701118444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1588704369774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588704369774" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1588704369774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588704369774" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1588704369774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588704369774" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1588704369774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588704369774" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588971451266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588971451266" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588971117608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-429.1280.680@0.0.1536.824" timestamp="1588971117608" />
+  </component>
+</project>
